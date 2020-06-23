@@ -46,3 +46,9 @@ A collection of links to articles, papers, books, and videos on software archite
 
 * [Building Secure and Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/)
 * [On Designing and Deploying Internet-Scale Services](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/index.html)
+
+## Operating systems
+
+* [Comprehensive Linux Cheatsheet](https://gto76.github.io/linux-cheatsheet/)
+* [The Linux Programming Interface](https://man7.org/tlpi/)
+* [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html)
