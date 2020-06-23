@@ -8,6 +8,7 @@ A collection of links to articles, papers, books, and videos on software archite
 * [Coursera](https://www.coursera.org/specializations/algorithms)
 * [LeetCode](https://leetcode.com/)
 * [Tim Roughgarden's Online Courses](https://timroughgarden.org/videos.html)
+* [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 
 ## Compilers
 
