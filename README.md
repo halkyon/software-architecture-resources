@@ -1,11 +1,12 @@
 # Systems resources
 
-A collection of links to articles, papers, and books on systems that I found useful.
+A collection of links to articles, papers, and books on systems and architecture that I found useful.
 
-This covers things like designing systems, distributed computing, deployments, fault tolerance/resilience, and more.
+This covers things like designing systems, software architecture, distributed computing, deployments, fault tolerance/resilience, and more.
 
 ## Articles/papers
 
+* [Catalog of Patterns of Enterprise Application Architecture](https://www.martinfowler.com/eaaCatalog/)
 * [Automating Safe, hands-off deployments](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/)
 * [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 * [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
