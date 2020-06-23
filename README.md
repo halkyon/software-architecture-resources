@@ -2,7 +2,7 @@
 
 A collection of links to articles, papers, books, and videos on software architecture, computer science, and systems.
 
-## Algorithms
+## Data structures and algorithms
 
 * [CSE373 - Analysis of Algorithms 2016 SBU](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
 * [Coursera](https://www.coursera.org/specializations/algorithms)
@@ -33,9 +33,10 @@ A collection of links to articles, papers, books, and videos on software archite
 
 * [Automating Safe, hands-off deployments](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/)
 
-## Distributed systems
+## Distributed computing/systems
 
 * [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 * [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
 * [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 
