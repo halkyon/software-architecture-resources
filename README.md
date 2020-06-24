@@ -25,6 +25,7 @@ A collection of links to articles, papers, books, and videos on software archite
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 * [The Philosophy of Computer Science (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/computer-science/)
+* [What Every Computer Science Major Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 * [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 * [CS61C Spring 2015: Great Ideas in Computer Architecture (Machine Structures)](https://inst.eecs.berkeley.edu/~cs61c/sp15/)
