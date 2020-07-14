@@ -20,6 +20,7 @@ A collection of links to articles, papers, books, and videos on software archite
 
 ## Computer science
 
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 * [Brilliant](https://brilliant.org/)
 * [From Nand to Tetris](https://www.nand2tetris.org/)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
@@ -41,6 +42,7 @@ A collection of links to articles, papers, books, and videos on software archite
 * [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
 * [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 * [Designing Distributed Systems](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/)
+* [A Note on Distributed Computing](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf)
 
 ## Enterprise architecture
 
