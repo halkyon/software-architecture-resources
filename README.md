@@ -38,11 +38,16 @@ A collection of links to articles, papers, books, and videos on software archite
 ## Distributed computing/systems
 
 * [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Two Generals' Problem](https://en.wikipedia.org/wiki/Two_Generals%27_Problem)
+* [Raft](https://en.wikipedia.org/wiki/Raft_(computer_science))
 * [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+* [Consistency Models](https://jepsen.io/consistency)
 * [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
 * [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 * [Designing Distributed Systems](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/)
 * [A Note on Distributed Computing](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf)
+* [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
+* [The ironies of automation... still going strong at 30?](https://johnrooksby.org/papers/ECCE2012_baxter_ironies.pdf)
 
 ## Enterprise architecture
 
