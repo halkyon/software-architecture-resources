@@ -39,6 +39,7 @@ A collection of links to articles, papers, books, and videos on software archite
 
 * [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 * [Two Generals' Problem](https://en.wikipedia.org/wiki/Two_Generals%27_Problem)
+* [Linearizability](https://en.wikipedia.org/wiki/Linearizability)
 * [Raft](https://en.wikipedia.org/wiki/Raft_(computer_science))
 * [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 * [Consistency Models](https://jepsen.io/consistency)
