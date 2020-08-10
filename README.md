@@ -49,6 +49,7 @@ A collection of links to articles, papers, books, and videos on software archite
 * [A Note on Distributed Computing](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf)
 * [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 * [The ironies of automation... still going strong at 30?](https://johnrooksby.org/papers/ECCE2012_baxter_ironies.pdf)
+* [Jepsen - Distributed Systems Safety Research](https://jepsen.io/)
 
 ## Software architecture
 
