@@ -50,9 +50,10 @@ A collection of links to articles, papers, books, and videos on software archite
 * [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 * [The ironies of automation... still going strong at 30?](https://johnrooksby.org/papers/ECCE2012_baxter_ironies.pdf)
 
-## Enterprise architecture
+## Software architecture
 
 * [Catalog of Patterns of Enterprise Application Architecture](https://www.martinfowler.com/eaaCatalog/)
+* [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 
 ## Systems design
 
