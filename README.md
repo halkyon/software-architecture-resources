@@ -41,6 +41,7 @@ A collection of links to articles, papers, books, and videos on software archite
 * [Two Generals' Problem](https://en.wikipedia.org/wiki/Two_Generals%27_Problem)
 * [Linearizability](https://en.wikipedia.org/wiki/Linearizability)
 * [Raft](https://en.wikipedia.org/wiki/Raft_(computer_science))
+* [In Search of an Understandable Consensus Algorithm(Extended Version)](https://raft.github.io/raft.pdf)
 * [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 * [Consistency Models](https://jepsen.io/consistency)
 * [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
